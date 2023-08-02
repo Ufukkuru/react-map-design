@@ -1,0 +1,93 @@
+
+{ "data": [
+    {
+        "id": 1,
+        "title": "Tomato",
+        "price": 1.95,
+        "categories": "vegetable",
+        "raiting": 3.4,
+        "explanation": "Lorem ipsum dolor sit amet,",
+        "image": "/tomato.png"
+    },
+    {
+        "title": "Banana",
+        "price": 2.95,
+        "categories": "fruit",
+        "raiting": 4.7,
+        "explanation": "Lorem ipsum dolor sit amet,",
+        "image": "/banana.png"
+    },
+    {
+        "id": 2,
+        "title": "Blue Berry",
+        "price": 4.20,
+        "categories": "fruit",
+        "raiting": 4.1,
+        "explanation": "Lorem ipsum dolor sit amet,",
+        "image": "/blueberry.png"
+    },
+    {
+        "id": 3,
+        "title": "Canary Melon",
+        "price": 2,
+        "categories": "fruit",
+        "raiting": 3.5,
+        "explanation": "Lorem ipsum dolor sit amet,",
+        "image": "/canarymelon.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Cucumber",
+        "price": 1.70,
+        "categories": "vegetable",
+        "raiting": 3.1,
+        "explanation": "Lorem ipsum dolor sit amet,",
+        "image": "/cucumber.png"
+    },
+    {
+        "id": 5,
+        "title": "Luttuce",
+        "price": 1.10,
+        "categories": "vegetable",
+        "raiting": 2.3,
+        "explanation": "Lorem ipsum dolor sit amet,",
+        "image": "/luttuce.png"
+    },
+    {
+        "id": 6,
+        "title": "Parsley",
+        "price": 1.50,
+        "categories": "vegetable",
+        "raiting": 1.7,
+        "explanation": "Lorem ipsum dolor sit amet,",
+        "image": "/parsley.png"
+    },
+    {
+        "id": 7,
+        "title": "Peach",
+        "price": 2.40,
+        "categories": "fruit",
+        "raiting": 3.4,
+        "explanation": "Lorem ipsum dolor sit amet,",
+        "image": "/peach.jpg"
+    },
+    {
+        "id": 8,
+        "title": "Potato",
+        "price": 2.35,
+        "categories": "vegetable",
+        "raiting": 3.9,
+        "explanation": "Lorem ipsum dolor sit amet,",
+        "image": "/potato.png"
+    },
+    {
+        "id": 9,
+        "title": "Strawberry",
+        "price": 4.40,
+        "categories": "fruit",
+        "raiting": 4.4,
+        "explanation": "Lorem ipsum dolor sit amet,",
+        "image": "/strawberry.jpg"
+    }
+]
+}
