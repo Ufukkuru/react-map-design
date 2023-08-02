@@ -1,19 +1,18 @@
-import { useState } from 'react'
+import React from 'react'
 import './App.css'
 import { Route, Routes } from 'react-router-dom'
-import Basket from './components/Basket'
 import Home from './Components/HomePage/Home'
 import Navbar from './Components/Navbar'
+import BasketData from './Components/BasketData'
 
 function App() {
-  const [count, setCount] = useState(0)
 
   return (
     <>
       <Navbar/>
       <Routes>
         <Route path='/' element={<Home/>}/>
-        <Route path='/basket' element={<Basket/>}/>
+        <Route path='/basket' element={<BasketData/>}/>
       </Routes>
     </>
   )
