@@ -1,7 +1,7 @@
 import React from 'react'
 import useBasketStore from '../assets/store/basket.store';
 
-function Basket() {
+function BasketData() {
   const {basketData} = useBasketStore();
   const productTotal = basketData.reduce((total, product) =>{
     return total + product.quantity * product.price
@@ -46,4 +46,4 @@ function Basket() {
   )
 }
 
-export default Basket
+export default BasketData
